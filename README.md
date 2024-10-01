@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilmith456&label=Profile%20views&color=0e75b6&style=flat" alt="dilmith456" /> </p>
 <hr></hr>
+
 - 🔭 I’m currently working on **Web based educational project**
 
 - 🌱 I’m currently learning **about Web programming ,Operating Systems and following Project Management Courses**
