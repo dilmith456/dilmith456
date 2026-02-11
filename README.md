@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilmith456&label=Profile%20views&color=0e75b6&style=flat" alt="dilmith456" /> </p>
 <hr></hr>
 
-- 🔭 I’m currently working on **Web based educational project**
+- 🔭 I’m currently working as a **Junior Quality Assuarance Engineer**
 
-- 🌱 I’m currently learning **about Web programming ,Operating Systems and following Project Management Courses**
+- 🌱 I’m currently learning **Automation Testing, ML Model Training and following Project Management Courses**
 
-- 👯 I’m looking to collaborate on **in more projects on web development and mobile application development**
+- 👯 I’m looking to collaborate on **in more ML Based Projects**
 
-- 💬 Ask me about **Project Management**
+- 💬 Ask me about **Software Quality Assuarance**
 
 - 📫 How to reach me **tdsl.thenuka@gmail.com**
 
